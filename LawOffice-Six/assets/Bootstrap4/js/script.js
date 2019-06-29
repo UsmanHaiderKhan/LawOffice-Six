@@ -2,8 +2,8 @@
 /*================== Read More Text ==================*/
 $(function () {
     var showChar = 1100;
-    var moretext = "Read More";
-    var lesstext = "Read Less";
+    var moretext = "More About";
+    var lesstext = "Less About";
     $('.comments-space').each(function () {
         var content = $(this).html();
         if (content.length > showChar) {
