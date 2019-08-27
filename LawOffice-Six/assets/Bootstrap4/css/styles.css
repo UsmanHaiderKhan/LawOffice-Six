@@ -295,6 +295,7 @@ html, body {
     font-size: 18px;
     font-weight: 400;
     color: #ffffff;
+    text-transform: uppercase;
     font-family: 'Barlow', sans-serif;
     border: 1px solid #ffffff;
     background-color: #000000;
